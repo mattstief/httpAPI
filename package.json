@@ -6,6 +6,14 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mattstief/httpAPI.git"
+  },
   "author": "MStieferman",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattstief/httpAPI/issues"
+  },
+  "homepage": "https://github.com/mattstief/httpAPI#readme"
 }
