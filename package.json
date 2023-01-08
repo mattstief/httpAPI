@@ -1,0 +1,11 @@
+{
+  "name": "httpapi",
+  "version": "1.0.0",
+  "description": "sample api",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "MStieferman",
+  "license": "ISC"
+}
